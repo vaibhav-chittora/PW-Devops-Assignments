@@ -1,0 +1,8 @@
+git init
+echo "..." > file (To create and add content to files)
+git add <file(s)>
+git commit -m "<message>"
+git branch <branch_name>
+git checkout <branch_name>
+git stash (To temporarily save changes without committing)
+git stash pop (To retrieve stashed changes)
